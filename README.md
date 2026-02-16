@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Utkarsh (Utkarsh Stack)
 
-<!--
-**utkarshstack/utkarshstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring developer documenting my journey from beginner to builder.  
+I focus on building real-world projects and learning by doing.
 
-Here are some ideas to get you started:
+## 🚀 What I’m working on
+- Learning Python and Web Development (HTML, CSS)
+- Building small projects to improve fundamentals
+- Exploring AI basics and practical use-cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** Python, HTML, CSS  
+- **Tools:** Git, GitHub  
+- **Interests:** Web Development, AI (basics)
+
+## 📂 Featured Projects
+- 🔐 **Password Manager (Python)** – simple CLI app to manage passwords  
+- 🌐 **quit_pix_web** – basic web project using HTML
+
+## 🎯 Goals (2026)
+- Build 3–5 solid beginner-to-intermediate projects  
+- Contribute to open-source (first PR)  
+- Create a small portfolio website
+
+## 🌍 Find me
+- YouTube: **Utkarsh Stack**  
+- Instagram: **@utkarshstack**
+
+---
+
+_“Consistency beats motivation. I build a little every day.”_
